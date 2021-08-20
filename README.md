@@ -1,10 +1,5 @@
 # Hi I'm Olmeiro, I'm glad to show you mi gitHub Profile!👋
 
-<!--
-**olmeiro/olmeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 ##- 🔭 I’m currently working on technologies like Html CSS and Javascript.
 ##- 🌱 I’m currently learning more about Js more specifically on React Library. 
 - 👯 I’m looking to collaborate on ...
