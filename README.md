@@ -6,7 +6,7 @@
 
 ## I have worked with:
 - 🔭 I’m currently working on technologies like *HTML* *CSS* and *Javascript*.
-- I' had the opportunity to work with *Typescript* *Google Scripts* and *Laravel*.
+- 💪 I' had the opportunity to work with *Typescript* *Google Scripts* and *Laravel*.
 
 ## I'm learning:
 - 🌱 I’m currently learning more about Js more specifically on React Library
