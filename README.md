@@ -22,5 +22,9 @@
 ##  How to reach me: ...
 - 📫 email: olme.orozco@gmail.com
 - ☎️ phone: 313 5257802
+- 
 > "Without Junior, you don't have a Senior".
 --> Give me the chance 💯!!!
+
+#### My First Portfolio:(https://cocky-meninsky-f500d1.netlify.app/).
+
