@@ -1,7 +1,7 @@
 # Hi I'm Olmeiro!👋
 
 ## About me:
-- I'm from Medellín Colombia.
+- I'm from Medellín Colombia but I'm living in Bogotá.
 - I really like doing exercising, walk through the montains and appreciate nature.
 - I have just started my career path on Tech so these are my first steps!
 
@@ -11,7 +11,8 @@
 - 💽 I have the basic principles of relational databases and I worked with MySql.
 
 ## I'm learning:
-- 🌱 I’m currently learning more about Js more specifically on React Library
+- 🌱 I’m currently learning more about Js more specifically on React Library.
+- - 💻 I'm learning Redux pattern and some SOLID principles.
 - 💨 Because I want to be full stack developer I've been learning Node.js too.
 
 # I’m looking to collaborate on ...
