@@ -27,5 +27,3 @@
 > "Without Junior, you don't have a Senior".
 --> Give me the chance 💯!!!
 
-## My First Portfolio: Under construction:(https://vigorous-lamarr-403b89.netlify.app/).
-
