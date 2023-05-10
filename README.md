@@ -20,6 +20,4 @@
 - 🙋‍♂️ I'm learning English, so I need to practice my speaking skills.
 
 ##  How to reach me: ...
-- 📫 email: olme.orozco@gmail.com
-- ☎️ phone: 313 5257802
 - [Linkedin](https://www.linkedin.com/in/olmeiro-orozco-ortiz-694b551a7/)
